@@ -1,0 +1,18 @@
+{
+  "correct": "Bravo! Votre réponse est correcte!",
+  "wrong" : "Votre réponse est fausse! Veuillez Réessayer!",
+  "kasba": "Musée Kasbah",
+  "athari": "Musée Archéologique",
+  "traditionnel": "Ville Antique",
+  "loadingMsg": "Veuillez patienter jusqu'on détecte la prochaine question!",
+  "welcome": "Bienvenue",
+  "descriptionGame":"Ce jeu vous emmène dans une expérience exceptionnelle à l'intérieur de la ville de Sfax. À travers ce jeu, vous êtes un héros médiéval qui doit tout savoir. Vous découvrirez les trésors de la ville en répondant à des questions à différents endroits. Suivez les instructions du jeu et il vous guidera pour trouver les trésors.",
+  "beginGame": "Commencer",
+  "chooseLang": "Choisir votre langue",
+  "question": "Question",
+  "okbtn": "Ok",
+  "descAntique": "Les sources historiques anciennes font état de l'existence d'une petite ville à l'emplacement actuel de Sfax, qui s'appelait Tafraurieh, puis Tafraurah au temps des Carthaginois, puis Tabarura au temps des Romains.Certaines antiquités ont été retrouvées dans la ville qui remonte à ces deux époques. Il semble que la culture de l'olivier et la production d'huile se soient développées depuis cette époque jusqu'à aujourd'hui.\nLa ville arabe de Sfax a remplacé l'ancienne ville à partir du IXe siècle après JC, car les Aghlabides l'ont construite pour être un mur pour résister aux invasions des Byzantins, qui à l'époque convoitaient la restauration de l'Afrique du Nord.\nDepuis sa création, Sfax est restée sous la domination de l'autorité qui règne à chaque fois sur la Tunisie, et de là on enregistre la succession des Aghlabides, des Fatimides, des Normands, des Almohades, des Hafsides, des Ottomans et des Beys pour régner sur la ville, et Sfax est toujours resté un farouche défenseur d'elle-même contre l'occupation, car c'était l'une des dernières villes tunisiennes qui est tombée aux mains du colonialisme français en 1881, après une guerre inégale dans laquelle des centaines de Chinois sont tombés",
+  "setting": "Paramètres",
+  "answerpoint": " bonne réponse sur "
+
+}

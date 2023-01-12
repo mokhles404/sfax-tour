@@ -1,0 +1,19 @@
+{
+  "correct": "Very good! Your answer is correct!",
+  "wrong" : "Your answer is wrong! Please try again!",
+  "kasba": "Kasbah Museum",
+  "athari": "Archaeological Museum",
+  "traditionnel": "Ancient City",
+  "loadingMsg": "Please wait until we detect the next question",
+  "welcome": "Welcome",
+  "descriptionGame": "This game takes you in an exceptional experience inside the city of Sfax. Through this game, you are a medieval hero who must know everything. You will discover about the treasures of the city by answering questions in different places. Follow the instructions of the game and it will guide you to find the treasures.",
+  "beginGame": "Start",
+  "chooseLang": "Choose Language",
+  "question": "Question",
+  "okbtn": "Okay",
+  "descAntique": "The ancient historical sources refer to the existence of a small city in the current location of Sfax, which was called Tafraurieh, then Tafraurah in the days of the Carthaginians, then Tabarura in the days of the Romans. Some antiquities have been found in the city that dates back to these two eras. It seems that olive cultivation and oil production have been developing from that time until today. The Arab city of Sfax replaced the old city beginning in the 9th century AD, as the Aghlabids built it to be a wall to resist the invasions of the Byzantines, who at that time coveted the restoration of North Africa. Since its establishment, Sfax has remained under the rule of the authority that rules Tunisia every time, and from this, we record the succession of the Aghlabids, the Fatimids, the Normans, the Almohads, the Hafsids, the Ottomans and the Beys to rule the city, and Sfax has always remained a fierce defender of itself against the occupation, as it was one of the last Tunisian cities that It fell into the hands of French colonialism in 1881, after an unequal war in which hundreds of Chinese fell",
+  "setting": "Settings",
+  "answerpoint": " correct response of "
+
+
+}

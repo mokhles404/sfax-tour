@@ -1,0 +1,250 @@
+[
+  {
+    "Numuero": 1,
+    "Question_AR": "متى بنيت القصبة؟",
+    "Question_FR": "Quand la Kasbah a-t-elle été construite ?",
+    "Question_ENG": "When was the Kasbah built?",
+    "options":[{
+      
+      "reponse_1_AR": "القرن 9م",
+      "reponse_1_FR": "9ème siècle après JC",
+      "reponse_1_ENG": "9th century AD"
+    },
+    {
+
+      "reponse_2_AR": "القرن 5م",
+      "reponse_2_FR": "5ème siècle après JC",
+      "reponse_2_ENG": "5th century AD"
+    },
+    {
+
+      "reponse_3_AR": "القرن 8م",
+      "reponse_3_FR": "8ème siècle après JC",
+      "reponse_3_ENG": "8th century AD"
+    },
+    {
+
+      "reponse_4_AR": "القرن 20م",
+      "reponse_4_FR": "20e siècle après JC",
+      "reponse_4_ENG": "20th century AD"
+    }
+    ],
+    "destination_AR": "بعد الاستماع إلى هذا التعريف ، توجه إلى قاعة حروجات ",
+    "destination_FR": "Après avoir écouté cette définition, dirigez-vous à gauche vers la salle Harujat",
+    "destination-ENG": "After listening to this definition, head left to Harujat Hall",
+    "Descri_AR": "قصبة صفاقس أو محرس صفاقس أو رباط صفاقس أو قصر صفاقس، هي قلعة تقع في الرّكن الجنوبي الغربي لمدينة صفاقس العتيقة وهي اليوم متحف للعمارة التّقليدية بصفاقس. كانت مركز الحكم في المدينة ثمّ ثكنة الجيش الأساسيّة بها. وقد سبق إنشاؤها إنشاء السور والمدينة، فقد كانت برج مراقبة شيّده الأغالبة على الساحل. توجد القصبة بالركن الجنوب غربي من المدينة العتيقة بالقرب من باب القصبة. تمثل القصبة مع كل من برج النار، برج القصر و برج السمراء زوايا الأسوار الأربعة. و هي تحتل أعلى مكان بالمدينة، الأمر الذي خول لها ليس فقط مراقبة خارجها، وإنما داخلها كذلك.",
+    "Descri_FR": "La Kasbah de Sfax, les Mahras de Sfax, le ribat de Sfax, ou le Palais de Sfax, est une forteresse située à l'angle sud-ouest de l'ancienne ville de Sfax, et c'est aujourd'hui un musée d'architecture traditionnelle à Sfax. C'était le centre du gouvernement de la ville, puis la principale caserne de l'armée. Sa construction a été précédée par la construction du mur et de la ville, car il s'agissait d'une tour de guet construite par les Aghlabides sur la côte. La Kasbah est située dans le sud-ouest de la vieille ville, près de la porte de la Kasbah. La Kasbah avec la tour du feu, la tour du palais et la tour de Samra représentent les coins des quatres murs. Et il occupe la plus haute place de la ville, ce qui lui permet de surveiller non seulement l'extérieur, mais aussi l'intérieur.",
+    "Descri_ENG": "The Kasbah of Sfax, the Mahras of Sfax, the Sfax ribat, or the Sfax Palace, is a fortress located in the southwestern corner of the ancient city of Sfax, and today it is a museum of traditional architecture in Sfax. It was the center of government in the city and then the main army barracks in it. Its construction was preceded by the construction of the wall and the city, as it was a watchtower built by the Aghlabids on the coast. The Kasbah is located in the southwest corner of the Old City, near the Kasbah Gate. The Kasbah with the Fire Tower, the Palace Tower and the Samra Tower represent the corners of the four walls. And it occupies the highest place in the city, which enabled it to monitor not only the outside, but also inside it."
+  },
+  {
+    "Numuero": 2,
+    "Question_AR": "لماذا توجد حلقتان على أبواب المنازل؟",
+    "Question_FR": "Pourquoi y a-t-il deux anneaux aux portes des maisons ?",
+    "Question_ENG": "Why are there two rings on the doors of houses?",
+    "options":[
+   { "reponse_1_AR": "لتمييز الطارقين، للرجال والنساء حلقتان مختلفتان",
+    "reponse_1_FR": "Pour distinguer celui qui frappe la porte, les hommes et les femmes ont deux anneaux différents",
+    "reponse_1_ENG": "To distinguish who knocks the door, men and women have two different rings"},
+    {
+    "reponse_2_AR": "لكي يتمكن صاحب البيت من ربطهما معا بسلسلة",
+    "reponse_2_FR": "Pour que le propriétaire de la maison puisse les attacher avec une chaîne",
+    "reponse_2_ENG": "So that the owner of the house can tie them together with a chain"},
+    {
+    "reponse_3_AR": "لجمالية الباب",
+    "reponse_3_FR": "pour l'esthétique de la porte",
+    "reponse_3_ENG": "door aesthetics"},
+    {
+    "reponse_4_AR": "تفاديا للعين وللحسد",
+    "reponse_4_FR": "Pour éviter le regard et l'envie",
+    "reponse_4_ENG": "To avoid the eye and envy"}
+    ],
+    "destination_AR": "بعد الخروج من هذه الغرفة توجه يسارا",
+    "destination_FR": "Après avoir quitté cette chambre, tournez à gauche",
+    "destination-ENG": "After leaving this room, turn left",
+    "Descri_AR": "الأبواب و النوافذ حصيلة عمل مشترك بين النجار و الحداد و ما يصنعه النجار يسمى \"جهازًا\" و ما يصنعه الحداد من أقفلة و مفاتيح و مطارق و صفائح و مساميرٍ يسمى \"حَرْجاً\" و الحروجات متنوعة لتنوع الأبواب و إختلافها حجما و شكلاً و موقعا و متانة و تنوع الحروجات مرتبط أيضا بمدى فاعلية كل قطعةٍ و إتقانُ صنعها و جماليتها و إتقانُ صنع قطعة ما و جمالِيتها نتيجة مؤهلات صانعها و طلب الحريف.",
+    "Descri_FR": "Portes et fenétres sont le fruit de la collaboration du menuisier et du ferronnier le premier exécue les parties en bois, le second en fournit la quincaillerie (paumeties , crapaudines, gonds ,serrures,...) et les grilles en fer forgé. Une grande variété de formes caractérise ces éléments qui conférent à la construction esthétique et dont la qualité dépend de la compétence de l\"artisan et de la demande du client",
+    "Descri_ENG": "Doors and windows are the fruit of collaboration between the carpenter and ironsmith. The former does the woodwork and the latter makes the hardware ( hinges,locks etc ...) and wrought iron gates availables .A wide range of shapes characterizes these elements , which give buildings more beauty. The qality of elements depends on the skill of the craftsman and the taste of the customer."
+  },
+  {
+    "Numuero": 3,
+    "Question_AR": "متى بدأ سكان صفاقس في بناء الأبراج؟",
+    "Question_FR": "Quand les habitants de Sfax ont-ils commencé à construire des tours ?",
+    "Question_ENG": "When did the people of Sfax start building towers?",
+    "options":[
+      {
+    "reponse_1_AR": "نهاية القرن 17",
+    "reponse_1_FR": "fin du 17ème siècle",
+    "reponse_1_ENG": "end of the 17th century"},
+    {
+    "reponse_2_AR": "بداية القرن 17",
+    "reponse_2_FR": "début du 17ème siècle",
+    "reponse_2_ENG": "beginning of the 17th century"},
+    {
+    "reponse_3_AR": "سنة 1712",
+    "reponse_3_FR": "année 1712",
+    "reponse_3_ENG": "year 1712"},
+    {
+    "reponse_4_AR": "نهاية القرن 16",
+    "reponse_4_FR": "fin du16éme siécle",
+    "reponse_4_ENG": "end of the 16th century"}
+    ],
+    "destination_AR": "بعد الخروج من هذه الغرفة اتجه أمامك مباشرة نحو الماجل",
+    "destination_FR": "Après avoir quitté cette pièce, dirigez-vous droit devant vous vers Al-Majel",
+    "destination-ENG": "After you leave this room, head straight in front of you towards Al Majal",
+    "Descri_AR": "لم تبدأ المدينة بالتّوسّع خارج الأسوار إلا مع نهاية القرن 17 عندما قرّر بعض الصّفاقسيّين بناء مباني خاصّة وسط أراضيهم الفلاحيّة الّتي تدعى \"جنان\"، وقد دعوا هذه المباني أبراجا نظرا لدورها الدّفاعي الموازي لوظيفتها السّكنيّة، ومازال في صفاقس مثالان قائمان عن هذه الأبراج الأولى هما برج القنوني وبرج المنيف. تطوّرت هذه الأبراج في القرون الموالية حتّى أصبحت مساكن صيفيّة لعديد العائلات خارج أسوار المدينة.",
+    "Descri_FR": "La ville n'a commencé à s'étendre hors des murs qu'à la fin du XVIIe siècle, lorsque certains Sfaxiens ont décidé de construire des bâtiments privés au milieu de leurs terres agricoles appelées \"Jinan.\" Ils ont appelé ces bâtiments des tours en raison de leur rôle défensif parallèle à leur fonction résidentielle Tour Al-Qununi et Al-Munif. Ces tours se sont développées au cours des siècles suivants jusqu'à devenir des résidences d'été pour de nombreuses familles hors des murs de la ville.",
+    "Descri_ENG": "The city did not begin to expand outside the walls until the end of the 17th century, when some Sfaxians decided to build private buildings in the middle of their agricultural lands called “Jinan.” They called these buildings towers due to their defensive role parallel to their residential function. Al-Qonuni and Al-Munif Tower. These towers developed in the following centuries until they became summer residences for many families outside the city walls."
+  },
+  {
+    "Numuero": 4,
+    "Question_AR": "في أي عهد بنيت مواجل الناصرية؟",
+    "Question_FR": "A quelle époque ont été construites les vagues de Nasiriyah ?",
+    "Question_ENG": "In which era was built the waves of Nasiriyah?",
+    "options":[
+      {
+    "reponse_1_AR": "في عهد محمد الناصر",
+    "reponse_1_FR": "À l'époque de Muhammad al-Nasir",
+    "reponse_1_ENG": "In the era of Muhammad al-Nasir"},
+    {
+    "reponse_2_AR": "في عهد حمو بن مليل البرغواني",
+    "reponse_2_FR": "À l'époque de  Hamu bin Mellil Al-Barghwani",
+    "reponse_2_ENG": "During the time of Hamu bin Mellil Al-Barghwani"},
+    {
+    "reponse_3_AR": "في عهد الناصر صلاح الدين",
+    "reponse_3_FR": "À l'époque d'Al-Nasir Salah Al-Din",
+    "reponse_3_ENG": "During the era of Al-Nasir Salah Al-Din "},
+    {
+    "reponse_4_AR": "في عهد المنصور بنصر الله",
+    "reponse_4_FR": "À l'époque d'Al-Mansur, Nasrallah",
+    "reponse_4_ENG": "At the time of Al-Mansur, Nasrallah"}
+  ],
+    "destination_AR": "توجه يسارا وسر بمحاذاة الحائط حتى تصل إلى درج ينزل تحت الأرض",
+    "destination_FR": "Dirigez-vous à gauche et longez le mur jusqu'à un escalier qui descend l'étage",
+    "destination-ENG": "Head left and walk along the wall until you come to a staircase that goes down the floor",
+    "Descri_AR": "نظرا لأن صفاقس تقع في مكان شحيح الماء، فقد اعتمد أهلها طول تاريخهم على تجميع مياه الأمطار في خزانات تدعى مواجل وفسقيات. وفي فترات تاريخية متعددة، بنيت منشآت عمومية لهذا الغرض خارج السور منها فسقيتان أغلبيتان، ومواجل كانت تدعى مواجل البقر، وكانت أبرز هذه المنشآت مواجل أمر ببنائها الأمير الموحدي محمد الناصر على عدد أيام السنة، فحملت هذه المواجل اسمه: مواجل الناصرية.",
+    "Descri_FR": "Étant donné que Sfax est située dans un endroit où l'eau est rare, ses habitants se sont appuyés tout au long de leur histoire sur la collecte de l'eau de pluie dans des réservoirs appelés mawjil et des fontaines. Au cours de plusieurs périodes historiques, des installations publiques ont été construites à cet effet à l'extérieur du mur, y compris deux voies navigables majeures et des mowails appelés mawajil al-Baqar.",
+    "Descri_ENG": "Since Sfax is located in a place where water is scarce, its people have relied throughout their history on collecting rainwater in tanks called mawjil and fountains. In several historical periods, public facilities were built for this purpose outside the wall, including two major waterways, and mowails that were called mawajil al-Baqar."
+  },
+  {
+    "Numuero": 5,
+    "Question_AR": "ماذا يوجد بهذا المكان الآن؟",
+    "Question_FR": "Qu'y a-t-il à cet endroit maintenant ?",
+    "Question_ENG": "What is in this place now?",
+    "options":[
+      {
+    "reponse_1_AR": "آثار جامع وفسقية وباب غدر",
+    "reponse_1_FR": "Les ruines d'une mosquée, une fontaine et Bab Ghadr",
+    "reponse_1_ENG": "The ruins of a mosque, a fountain and Bab Ghadr"},
+    {
+    "reponse_2_AR": "بيت راحة وغرفة نوم",
+    "reponse_2_FR": "chambre de repos et chambre de couchage",
+    "reponse_2_ENG": "Rest house and bedroom"},
+    {
+    "reponse_3_AR": "جامع ومدفع",
+    "reponse_3_FR": "Mosquée et canon",
+    "reponse_3_ENG": "Mosque and cannon"},
+    {
+    "reponse_4_AR": "مخزن وسلاح وفسقية",
+    "reponse_4_FR": "Entrepôt, arme et fontaine",
+    "reponse_4_ENG": "Warehouse, weapon, and fountain"}
+  ],
+    "destination_AR": "بعد الصعود من الدرج توجه يسارا وسر بمحاذاة الحائط من جهة اليسار",
+    "destination_FR": "Après avoir monté les escaliers, tournez à gauche et longez le mur par la gauche",
+    "destination-ENG": "After going up the stairs, turn left and walk along the wall from the left",
+    "Descri_AR": "تروي المصادر أن برجا قديما أسسه الأغالبة في هذا الموضع لمراقبة ساحل البحر، وذلك قبل تأسيس المدينة وبناء سورها وقصبتها. وأثناء القيام بالأشغال الضرورية لتحويل القصبة إلى متحف، تم اكتشاف هذا الجزء تحت الأرض الذي وجد به فضاء ضيق به محراب، وفسقية لجمع مياه الأمطار. ويعتقد الباحثون أن هذا المكان هو ما كان مسجد الرباط القديم. كما نرى هنا تحت الأرض درجا متهالكا يؤدي إلى الطابق العلوي، وغرفة فيها باب سرّي يدعى باب غدر، هو عبارة عن جزء من السور لا يبنى وإنما يغطى بحائط قليل السمك سريع الكسر، يمكن هدمه بسهولة إذا احتاج أحدهم للهرب.",
+    "Descri_FR": "Les sources racontent qu'une ancienne tour a été construite par les Aghlabides à cet endroit pour surveiller la côte maritime, avant la fondation de la ville et la construction de son mur et de ses roseaux. En effectuant les travaux nécessaires pour transformer la kasbah en musée, cette partie souterraine a été découverte, dans laquelle se trouvait un espace étroit avec un mihrab et une fontaine pour recueillir l'eau de pluie. Les chercheurs pensent que cet endroit est ce qui était l'ancienne mosquée de Rabat. On voit aussi ici sous le sol un escalier délabré qui mène à l'étage supérieur, et une pièce avec une porte secrète dite la porte de la trahison, qui est une partie du mur qui n'est pas bâtie, mais qui est recouverte d'un mur de faible épaisseur et rapide à casser, qui peut être facilement démoli si quelqu'un doit s'échapper.",
+    "Descri_ENG": "The sources narrate that an ancient tower was built by the Aghlabids in this location to monitor the sea coast, before the founding of the city and the construction of its wall and reeds. While carrying out the necessary work to transform the kasbah into a museum, this underground part was discovered, in which was found a narrow space with a mihrab and a fountain for collecting rainwater. Researchers believe that this place is what was the old mosque of Rabat. We also see here under the ground a dilapidated staircase that leads to the upper floor, and a room with a secret door called the treachery door, which is a part of the wall that is not built, but is covered by a wall of low thickness and quick to break, which can be easily demolished if someone needs to escape."
+  },
+  {
+    "Numuero": 6,
+    "Question_AR": "أين يقع الجامع الكبير في صفاقس؟",
+    "Question_FR": "Où se situe la Grande Mosquée à Sfax ?",
+    "Question_ENG": "Where is the Great Mosque located in Sfax?",
+    "options":[
+      {
+    "reponse_1_AR": "في وسط المدينة العتيقة",
+    "reponse_1_FR": "Au milieu de la vieille ville",
+    "reponse_1_ENG": "In the middle of the old city"
+  },
+    {"reponse_2_AR": "في الجهة الشرقية من المدينة",
+    "reponse_2_FR": "A l'est de la ville",
+    "reponse_2_ENG": "On the eastern side of the city"
+  },
+    {
+    "reponse_3_AR": "قرب سوق الحوت",
+    "reponse_3_FR": "près du marché aux poissons",
+    "reponse_3_ENG": "near the fish market"
+  },
+    {
+    "reponse_4_AR": "خارج الأسوار",
+    "reponse_4_FR": "hors les murs",
+    "reponse_4_ENG": "outside the walls"}
+    ],
+    "destination_AR": "بعد الخروج من هذه القاعة، اتجه أمامك مباشرة نحو مقطع السور.",
+    "destination_FR": "Après avoir quitté ce hall, continuez tout droit vers la section de la clôture.",
+    "destination-ENG": "After exiting this hall, go straight ahead towards the section of the fence.",
+    "Descri_AR": "يعتبر الجامع الكبير أول جامع بني بالمدينة وأكبر جوامعها إلى اليوم. بني في القرن التاسع بالتزامن مع السور في قلب المدينة تماما، وشهد عديد التحسينات والتغييرات على مر تاريخه، ونتيجة لذلك نجد فيه اليوم عديد النقائش والتفاصيل التي تقدم لنا معطيات تاريخية مهمة عن تاريخ المدينة. وكان الجامع الكبير مركزاً لاتخاذ القرارات المصيرية خاصة أيام الحروب. يجتمع فيه أكابر القوم وشيوخ الدين يتدارسون أمور دنياهم ساعة العسرة، أو لتعليم الناس الفقه الإسلامي. في المدينة كذلك عدد كبير من الجوامع والزوايا، وقد ازدهرت زوايا الطرق الصوفية بالمريدين المتعبدين الذاكرين بأشكال متنوعة كالعوامرية والعيساوية والقادرية، برع بعضها في خلق أنماط موسيقية فريدة. نذكر من بين الزوايا زاوية سيدي علي الكراي. ومن بين أشهر الجوامع نذكر جامع سيدي إلياس، جامع العجوزين، جامع أبو شويشة، جامع سيدي عبد المولى.",
+    "Descri_FR": "La Grande Mosquée est la première mosquée construite dans la ville et la plus grande mosquée à ce jour. Il a été construit au IXe siècle en conjonction avec le mur au cœur même de la ville, et a connu de nombreuses améliorations et changements tout au long de son histoire. De ce fait, on y trouve aujourd'hui de nombreuses inscriptions et détails qui nous fournissent des données historiques importantes sur l'histoire de la ville. La Grande Mosquée était un centre de prise de décisions fatidiques, en particulier pendant les guerres. C'est là que les grands personnages et les cheikhs religieux se rassemblent pour étudier leurs affaires mondaines en période de difficultés, ou pour enseigner aux gens la jurisprudence islamique. qui se souvint sous diverses formes telles que Al-Awamriya, Al-Isawiya et Al-Qadiriyah, dont certaines excellaient dans la création de styles musicaux uniques. Parmi les angles, on cite la zawiya de Sidi Ali Al-Karay. Parmi les mosquées les plus célèbres, on citera la mosquée Sidi Elias, la mosquée Agouzen, la mosquée Abu Shweisha et la mosquée Sidi Abd al-Mawla.",
+    "Descri_ENG": "The Great Mosque is the first mosque built in the city and the largest mosque to date. It was built in the ninth century in conjunction with the wall in the very heart of the city, and has witnessed many improvements and changes throughout its history. As a result, we find in it today many inscriptions and details that provide us with important historical data on the history of the city. The Great Mosque was a center for making fateful decisions, especially during wars. It is where the great people and the religious sheikhs gather to study their worldly matters in times of hardship, or to teach people Islamic jurisprudence.The city also has a large number of mosques and zawiyas, and the corners of the Sufi orders flourished with devotees who remembered in a variety of forms such as Al-Awamriya, Al-Isawiya and Al-Qadiriyah, some of which excelled in creating unique musical styles. Among the angles, we mention the zawiya of Sidi Ali Al-Karay. Among the most famous mosques, we mention the Sidi Elias Mosque, the Agouzen Mosque, the Abu Shweisha Mosque, and the Sidi Abd al-Mawla Mosque."
+  },
+  {
+    "Numuero": 7,
+    "Question_AR": "من أين كان يجلب الكذال إلى صفاقس ؟",
+    "Question_FR": "Où a-t-il amené des sodomites à Sfax ?",
+    "Question_ENG": "Where did he bring sodomites to Sfax?",
+    "options":[
+      {
+    "reponse_1_AR": "من قابس أو من لمطة",
+    "reponse_1_FR": "De Gabès ou de Lamta",
+    "reponse_1_ENG": "From Gabes or from Lamta"},
+    {
+    "reponse_2_AR": "من طبلبة أو من الكاف",
+    "reponse_2_FR": "De Tablaba ou du Kef",
+    "reponse_2_ENG": "From Tablaba or from El Kef"},
+    {
+    "reponse_3_AR": "من قفصة أو من تطاوين",
+    "reponse_3_FR": "Depuis Gafsa ou Tataouine",
+    "reponse_3_ENG": "From Gafsa or Tataouine"},
+    {
+    "reponse_4_AR": "من موريطانيا",
+    "reponse_4_FR": "de Mauritanie",
+    "reponse_4_ENG": "from Mauritania"}
+  ],
+    "destination_AR": "يمكنك تلمس قبر محمد بن الطاهر المنيف لتحسس نقوشه",
+    "destination_FR": "Vous pouvez toucher la tombe de Muhammad ibn al-Tahir al-Munif pour sentir ses gravures",
+    "destination-ENG": "You can touch the tomb of Muhammad ibn al-Tahir al-Munif to feel its engravings",
+    "Descri_AR": "لقد كان المعمار في صفاقس بسيطا جدا، وكانت تستعمل مواد معظمها محلي في البناء، إذ كانت أغصان الزيتون تستعمل في دعم الأسقف، وكان البناء يعتمد على الحجر والطين الموجود في أرض صفاقس (يدعى محليا الارشا) والتبن والجير وطين البحر (يدعى محليا السويخ) والطحالب وغيرها. ومع مضي الزمن، وخاصة مع قدوم بعض الأندلسيين إلى صفاقس وأبرزها عائلة المنيف، ظهرت تقنيات أخرى للبناء والزخرفة في صفاقس، مثل النقش على الكذال الذي كان يجلب من لمطة أو من قابس، واستعمال الجليز والنقش على الخشب وغيرها.",
+    "Descri_FR": "L'architecture à Sfax était très simple, et la plupart des matériaux locaux ont été utilisés dans la construction, comme des branches d'olivier ont été utilisées pour soutenir les toits, et la construction était basée sur la pierre et l'argile trouvées dans le pays de Sfax (appelé localement Arsha) , paille, chaux, boue marine (appelée localement Souikh) et algues et autres. Au fil du temps, et surtout avec l'arrivée de certains Andalous à Sfax, notamment la famille Munif, d'autres techniques de construction et de décoration sont apparues à Sfax, comme la gravure sur le kathal apporté d'un crochet ou de Gabès, et l'utilisation de la glaçure et de la gravure sur bois et autres.",
+    "Descri_ENG": "The architecture in Sfax was very simple, and most of the local materials were used in the construction, as olive branches were used to support the roofs, and the construction was based on stone and clay found in the land of Sfax (locally called Arsha), straw, lime, sea mud (locally called Souikh) and algae and others. With the passage of time, and especially with the arrival of some Andalusians to Sfax, most notably the Munif family, other techniques of construction and decoration appeared in Sfax, such as engraving on the kathal that was brought from a hook or from Gabes, and the use of glaze and engraving on wood and others."
+  },
+  {
+    "Numuero": 8,
+    "Question_AR": "في أي مجال اختصت عائلة المنيف؟",
+    "Question_FR": "Dans quel domaine la famille Munif s'est-elle spécialisée ?",
+    "Question_ENG": "Dans quel domaine la famille Munif s'est-elle spécialisée ?",
+    "options":[
+      {
+    "reponse_1_AR": "البناء والعمارة",
+    "reponse_1_FR": "bâtiment et architecture",
+    "reponse_1_ENG": "construction and architecture"},
+    {
+    "reponse_2_AR": "التجارة",
+    "reponse_2_FR": "Commerce",
+    "reponse_2_ENG": "Trading"},
+    {
+    "reponse_3_AR": "الصيد البحري",
+    "reponse_3_FR": "Faire de la pêche",
+    "reponse_3_ENG": "Fishing"},
+    {
+    "reponse_4_AR": "الحدادة",
+    "reponse_4_FR": "forge",
+    "reponse_4_ENG": "smithy"}
+  ],
+    "destination_AR": "",
+    "destination_FR": "",
+    "destination-ENG": "",
+    "Descri_AR": "أل المنيف هي واحدة من أشهر عائلات صفاقس يعود أصلها البعيد إلى الجزيرة العربية فمنهم من يقول أن أصلهم يعود إلى قبيلة بني هاجر أو قبيلة بني تميم أو قبيلة ثقيف أو قبيلة هذيل. هاجر أفراد من عائلة المنيف مع الفتوحات الإسلامية إلى الأندلس و استقروا بها و قد اشتهروا في تلك الفترة بعديد الصناعات مثل البناء و الحرف عند سقوط الأندلس بداية من القرن السادس عشر, غادر أل المنيف الأندلس نحو شمال إفريقيا و استقر بعضهم بصفاقس و قد أكد الأستاذ عبد الواحد المكني ذلك في كتاباته كما ذكر ألقابا أخرى من أصل أندلسي و هي عائلات الشرفي و النيفر و قبادو و الأندلسي. وقد اشتهر أل المنيف في صفاقس كبنائين و أمناء بناء و قد ساهموا في بناء و ترميم اغلب معالم المدينة العتيقة. و احتكروا في بعض الأحيان أمانة البناء مع عائلة بوزيد من انجازات عائلة المنيف في صفاقس الجامع الكبير بصفاقس بني الجامع الكبير في القرن التاسع ميلادي علي يد علي بن سلم البكري و قد شهد عبر التاريخ عديد الترميمات و التوسعات و منها التي قام بها أل المنيف الجامع الكبير: المحراب بناه طاهر بن احمد المنيف سنة 1758 م مئذنة عمر كمون: وقد شيد هذه المئذنة المعلم محمد بن احمد ابن علي المنيف وأخيه قاسم سنة 1666م. باب الديوان: باب خارجي : شيده المعلم احمد المنيف والمعلم عبد اللطيف المنيف ومعلم منيف ثالث غاب اسمه. باب داخلي المواجه لجامع العجوزين: جدده المعلم طاهر ابن احمد المنيف وبني سنة 1747. باب الجبلي : وقع تجديده من طرف محمد المنيف سنة 1809م",
+    "Descri_FR": "Al Munif est l'une des familles les plus célèbres de Sfax, dont l'origine remonte à la péninsule arabique. Avec les conquêtes islamiques, les membres de la famille Munif ont émigré en Andalousie et s'y sont installés, et ils étaient célèbres à cette époque pour de nombreuses industries telles que la construction et l'artisanat.A la chute de l'Andalousie au début du XVIe siècle, la famille Munif quitte l'Andalousie vers l'Afrique du Nord et certains d'entre eux s'installent à Sfax, comme le confirme dans ses écrits le professeur Abdel Wahed Al-Makni, qui mentionne également d'autres titres d'origine andalouse, qui sont les familles d'Al-Sharafi, d'Al-Nifer, de Qabado et d'Andalous. La famille Munif était célèbre à Sfax en tant que bâtisseurs et syndics, et ils ont contribué à la construction et à la restauration de la plupart des monuments de la ville antique. Parfois, ils ont monopolisé la construction de la fiducie avec la famille Bouzid.Des réalisations de la famille Munif à Sfax Grande Mosquée de Sfax La Grande Mosquée a été construite au IXe siècle après JC par Ali bin Salim al-Bakri.Tout au long de l'histoire, elle a connu de nombreuses rénovations et agrandissements, y compris ceux réalisés par la famille Munif. La Grande Mosquée : Le mihrab a été construit par Taher bin Ahmed al-Munif en 1758 après JC Minaret d'Omar Kammoun : Ce minaret a été construit par le professeur Muhammad bin Ahmed bin Ali Al Munif et son frère Qasim en 1666 après JC. Porte Diwan : Porte extérieure : Elle a été construite par l'enseignant Ahmed Al-Munif, l'enseignant Abdul Latif Al-Moneef, et un troisième enseignant Munif dont le nom a disparu. Une porte intérieure face à l'ancienne mosquée : elle a été rénovée par le maître Taher Ibn Ahmad al-Munif et construite en 1747. porte de montagne : Il a été renouvelé par Muhammad al-Munif en 1809 après JC",
+    "Descri_ENG": "Al Munif est l'une des familles les plus célèbres de Sfax, dont l'origine remonte à la péninsule arabique. Avec les conquêtes islamiques, les membres de la famille Munif ont émigré en Andalousie et s'y sont installés, et ils étaient célèbres à cette époque pour de nombreuses industries telles que la construction et l'artisanat.A la chute de l'Andalousie au début du XVIe siècle, la famille Munif quitte l'Andalousie vers l'Afrique du Nord et certains d'entre eux s'installent à Sfax, comme le confirme dans ses écrits le professeur Abdel Wahed Al-Makni, qui mentionne également d'autres titres d'origine andalouse, qui sont les familles d'Al-Sharafi, d'Al-Nifer, de Qabado et d'Andalous. La famille Munif était célèbre à Sfax en tant que bâtisseurs et syndics, et ils ont contribué à la construction et à la restauration de la plupart des monuments de la ville antique. Parfois, ils ont monopolisé la construction de la fiducie avec la famille Bouzid.Des réalisations de la famille Munif à Sfax Grande Mosquée de Sfax La Grande Mosquée a été construite au IXe siècle après JC par Ali bin Salim al-Bakri.Tout au long de l'histoire, elle a connu de nombreuses rénovations et agrandissements, y compris ceux réalisés par la famille Munif. La Grande Mosquée : Le mihrab a été construit par Taher bin Ahmed al-Munif en 1758 après JC Minaret d'Omar Kammoun : Ce minaret a été construit par le professeur Muhammad bin Ahmed bin Ali Al Munif et son frère Qasim en 1666 après JC. Porte Diwan : Porte extérieure : Elle a été construite par l'enseignant Ahmed Al-Munif, l'enseignant Abdul Latif Al-Moneef, et un troisième enseignant Munif dont le nom a disparu. Une porte intérieure face à l'ancienne mosquée : elle a été rénovée par le maître Taher Ibn Ahmad al-Munif et construite en 1747. porte de montagne : Il a été renouvelé par Muhammad al-Munif en 1809 après JC"
+  }
+]

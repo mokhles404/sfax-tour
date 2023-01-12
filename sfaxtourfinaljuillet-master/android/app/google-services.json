@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "46308212744",
+    "project_id": "sfaxtour",
+    "storage_bucket": "sfaxtour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46308212744:android:5349d90f16f037374451bd",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWxr-6oPgcUWv0U7EkwKL_mXe3FigBJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46308212744:android:8a7576ff86ae845b4451bd",
+        "android_client_info": {
+          "package_name": "com.sfaxstour.sfaxtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWxr-6oPgcUWv0U7EkwKL_mXe3FigBJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46308212744:android:eb19e04259d13f134451bd",
+        "android_client_info": {
+          "package_name": "com.threedwave.sfaxtour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWxr-6oPgcUWv0U7EkwKL_mXe3FigBJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46308212744:android:abfa0ffc20274b814451bd",
+        "android_client_info": {
+          "package_name": "com.threedwave.sfaxtourfvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWxr-6oPgcUWv0U7EkwKL_mXe3FigBJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46308212744-k18vh0f1oj6knovmnm9j5vgm3h7hhqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
